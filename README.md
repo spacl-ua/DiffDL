@@ -156,4 +156,4 @@ author = {Phillip Martin and Maria Altbach and Ali Bilgin},
 ```
 
 ## Contact
-This project is maintained by [Your Lab/Institution]. For questions, please contact [Your Email].
+This project is maintained by Bilgin Lab at University of Arizona. For questions, please contact bilgin@arizona.edu.
