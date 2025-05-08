@@ -1,6 +1,15 @@
 # DiffusionMRI-Palette: Conditional Diffusion for Parametric DTI/DKI Mapping
 
-[Diffusion Paper](doi: 10.1016/j.mri.2024.110309) | [Diffusion Project Page](TBA)
+
+This is the official repo for the paper:
+Phillip Martin, Maria Altbach, Ali Bilgin,
+Conditional generative diffusion deep learning for accelerated diffusion tensor and kurtosis imaging,
+Magnetic Resonance Imaging,
+Volume 117,
+2025,
+110309,
+ISSN 0730-725X,
+https://doi.org/10.1016/j.mri.2024.110309
 
 ## Brief
 
@@ -127,6 +136,17 @@ We also build upon:
 
 ## Citation
 ```bibtex
+@article{MARTIN2025110309,
+title = {Conditional generative diffusion deep learning for accelerated diffusion tensor and kurtosis imaging},
+journal = {Magnetic Resonance Imaging},
+volume = {117},
+pages = {110309},
+year = {2025},
+issn = {0730-725X},
+doi = {https://doi.org/10.1016/j.mri.2024.110309},
+url = {https://www.sciencedirect.com/science/article/pii/S0730725X2400290X},
+author = {Phillip Martin and Maria Altbach and Ali Bilgin},
+}
 @inproceedings{palette2022,
   title={Palette: Image-to-Image Diffusion Models},
   author={Saharia, Chitwan and Chan, William and Chang, Huiwen and Lee, Chris and Ho, Jonathan and Salimans, Tim and Fleet, David J and Norouzi, Mohammad},
