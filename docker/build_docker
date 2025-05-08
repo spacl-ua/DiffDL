@@ -1,0 +1,8 @@
+docker build -t bilginlab:palette_v1 \
+  --build-arg USER_ID=$(id -u) \
+  --build-arg GROUP_ID=$(id -g) .
+
+docker save <image_id> -o palette_docker.tar
+
+singularity build palette_docker.sif docker-archive://palette_docker.tar
+
